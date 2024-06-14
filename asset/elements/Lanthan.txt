@@ -1,0 +1,5 @@
+Nhóm: IIIB
+Chu kỳ: 6
+Nguyên tử khối: 138,91 
+Độ âm điện: 1,1
+Cấu hình electron: [Xe] 5d1 6s2 
